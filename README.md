@@ -4,6 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omkar+Kore!;" />
 </h1>
 
+<h3 align="center">A passionate MERN stack developer </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **A ONDC platform**
+ 
+ 🌱 I’m currently learning **Docker, ML , DS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Omkore-09/Omkore-09/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
 <!--
 **Omkore-09/Omkore-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
