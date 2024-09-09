@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Omkore-09.Omkore-09" />
+
 ## Hi there 👋
 
 <!--
