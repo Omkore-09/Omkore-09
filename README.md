@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A ONDC platform**
+ 
  
  🌱 I’m currently learning **Docker, ML , DS**
 
