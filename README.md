@@ -53,11 +53,11 @@ Building scalable web applications and solving real-world problems through code.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Omkore-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Omkore-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /> -->
 
 <img height="180" src="https://streak-stats.demolab.com?user=Omkore-09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkore-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkore-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> -->
 
 </div>
 
